@@ -9,11 +9,6 @@ Jolli is a documentation automation platform that helps teams create, manage, an
 - test
 - test
 - test
-- test
-- test
-- 哈哈哈哈哈哈
-- 哈哈哈哈链接发来看见的发的
-- 撒旦法勾搭书法大赛发多少
 
 ## Overview
 
